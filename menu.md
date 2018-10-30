@@ -1,6 +1,6 @@
 1142836
 <<<<<<< HEAD
-[margherita](margherita.md)
+[margherita](pizza/margherita.md)
 =======
-[capricciosa](capricciosa.md)
+[capricciosa](pizza/capricciosa.md)
 >>>>>>> feature/PizzaCapricciosa
